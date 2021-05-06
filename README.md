@@ -10,9 +10,7 @@ The purpose of this project is to create a table and organize data about UFO sig
 - How to create, populate, and dynamically filter a table using JavaScript and HTML.
 
 ## Results
-
-
-## Analysis
-
+The project is meant to filter data with a button. It simplifies the process for the users of the sit to navigate it and find what they are looking for when they browse. Furthermore, the design of the website looks like a pro analytics service similar to what I have seen on Coinbase Pro or ETRADE Pro.
 
 ## Summary
+Last night (May 5th, 2021), I saw a bunch of lights in a line across the sky. I quickly googled it to figure out what they were. SpaceX has satellites in orbit around the earth. I believe any kind of sightings like this can be notated and available for research. The UFOs project is meant to provide internet users a database of potential unidentified, or identified, flying objects.
